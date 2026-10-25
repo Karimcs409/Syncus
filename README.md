@@ -1,4 +1,4 @@
-# 🚀 Syncus
+<img width="1600" height="894" alt="WhatsApp Image 2026-10-17 at 1 57 32 PM (1)" src="https://github.com/user-attachments/assets/17c24642-139f-49e8-bd98-66f5935fc4ac" /># 🚀 Syncus
 
 **An AI-powered career and technical-community platform for university students, built to close the gap between what graduates learn and what the tech job market demands.**
 
@@ -152,10 +152,15 @@ Syncus separates **state** from **intelligence**:
 
 ## 🖼 Screenshots
 
-> Drag and drop your screenshots here while editing the README on GitHub.
-> Suggested: AI Tools page, Mock Interviewer, Career Copilot, Profile.
+<img width="863" height="837" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM (1)" src="https://github.com/user-attachments/assets/e413110c-6aae-4952-a8cd-65fc4197edae" />
+<img width="1600" height="756" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM (2)" src="https://github.com/user-attachments/assets/4949d9fe-02a4-48e5-a805-debdbbbd539d" />
+<img width="905" height="922" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM" src="https://github.com/user-attachments/assets/a2f8fa04-4ed6-4ba4-a78b-a25f917f3055" />
+<img width="1600" height="766" alt="WhatsApp Image 2026-10-17 at 1 57 31 PM" src="https://github.com/user-attachments/assets/8745e20e-33c6-406a-a0b6-95fb70f2b674" />
+<img width="1600" height="764" alt="WhatsApp Image 2026-10-17 at 1 57 32 PM" src="https://github.com/user-attachments/assets/9ceaa0ed-80f4-4011-973e-ba7841714a03" />
 
-<!-- Example: ![AI Tools](paste-image-link-here) -->
+
+
+
 
 ---
 
