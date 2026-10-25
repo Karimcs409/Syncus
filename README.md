@@ -1,4 +1,4 @@
-<img width="1600" height="894" alt="WhatsApp Image 2026-10-17 at 1 57 32 PM (1)" src="https://github.com/user-attachments/assets/17c24642-139f-49e8-bd98-66f5935fc4ac" /># 🚀 Syncus
+
 
 **An AI-powered career and technical-community platform for university students, built to close the gap between what graduates learn and what the tech job market demands.**
 
