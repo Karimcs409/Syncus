@@ -4,9 +4,9 @@
 
 Syncus acts as a digital career and technical advisor for every student: it prepares them for interviews, analyzes skill gaps, generates ATS-friendly CVs, and connects students, faculty, and alumni in one professional environment, with no extra operational load on the university.
 
-> **Status:** 🚧 In development, not yet deployed to production.
+> > **Status:** MVP / prototype. Not deployed to production due to limited funding. The core AI tools (Mock Interviewer, Career Copilot, CV Maker) work end-to-end in the development environment.
 > Originally proposed to **King Salman International University (KSIU)** as a platform to improve employability and the university's technical ecosystem.
->
+
 > **My role:** AI backend engineering and product decisions: LLM workflows, structured-output validation, and the AI microservices behind the platform.
 
 ---
