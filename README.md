@@ -1,10 +1,10 @@
-
+# 🚀 Syncus
 
 **An AI-powered career and technical-community platform for university students, built to close the gap between what graduates learn and what the tech job market demands.**
 
 Syncus acts as a digital career and technical advisor for every student: it prepares them for interviews, analyzes skill gaps, generates ATS-friendly CVs, and connects students, faculty, and alumni in one professional environment, with no extra operational load on the university.
 
-> > **Status:** MVP / prototype. Not deployed to production due to limited funding. The core AI tools (Mock Interviewer, Career Copilot, CV Maker) work end-to-end in the development environment.
+> > > **Status:** MVP / prototype. Not deployed to production due to limited funding. The core AI tools (Mock Interviewer, Career Copilot, CV Maker) work end-to-end in the development environment.
 > Originally proposed to **King Salman International University (KSIU)** as a platform to improve employability and the university's technical ecosystem.
 
 > **My role:** AI backend engineering and product decisions: LLM workflows, structured-output validation, and the AI microservices behind the platform.
@@ -152,12 +152,15 @@ Syncus separates **state** from **intelligence**:
 
 ## 🖼 Screenshots
 
-<img width="863" height="837" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM (1)" src="https://github.com/user-attachments/assets/e413110c-6aae-4952-a8cd-65fc4197edae" />
-<img width="1600" height="756" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM (2)" src="https://github.com/user-attachments/assets/4949d9fe-02a4-48e5-a805-debdbbbd539d" />
-<img width="905" height="922" alt="WhatsApp Image 2026-10-17 at 1 57 33 PM" src="https://github.com/user-attachments/assets/a2f8fa04-4ed6-4ba4-a78b-a25f917f3055" />
-<img width="1600" height="766" alt="WhatsApp Image 2026-10-17 at 1 57 31 PM" src="https://github.com/user-attachments/assets/8745e20e-33c6-406a-a0b6-95fb70f2b674" />
-<img width="1600" height="764" alt="WhatsApp Image 2026-10-17 at 1 57 32 PM" src="https://github.com/user-attachments/assets/9ceaa0ed-80f4-4011-973e-ba7841714a03" />
 
+### AI Tools
+<img width="800" alt="AI Tools" src="https://github.com/user-attachments/assets/8745e20e-33c6-406a-a0b6-95fb70f2b674" />
+
+### AI Mock Interviewer
+<img width="800" alt="AI Mock Interviewer" src="https://github.com/user-attachments/assets/4949d9fe-02a4-48e5-a805-debdbbbd539d" />
+
+### Career Copilot
+<img width="600" alt="Career Copilot" src="https://github.com/user-attachments/assets/a2f8fa04-4ed6-4ba4-a78b-a25f917f3055" />
 
 
 
@@ -195,11 +198,13 @@ Syncus separates **state** from **intelligence**:
 
 | Name | Role |
 |---|---|
-| **Kareem Ahmed** | Lead AI Engineer: AI engines, LLM integration, Django AI apps |
+| **Kareem Ahmed** | AI Backend Engineer: AI engines, LLM integration, Django AI apps |
 | **Mohamed Ali Shawki** | Lead Software Engineer: Django backend, frontend |
 
 ---
 
+
+
 ## 📄 Note
 
-This repository contains project documentation only. The source code is maintained privately by the project team.
+This repository is a documentation showcase created in October 2026. The project has been developed since 06/2026, and the source code is maintained privately by the project team.
